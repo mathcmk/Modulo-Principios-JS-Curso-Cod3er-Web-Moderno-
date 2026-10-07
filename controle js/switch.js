@@ -2,7 +2,6 @@ const imprimirResultado = function (nota) {
     switch(Math.floor(nota)){
         case 10:
             // Tanto se for 10 ou 9 vai executar o que está 9, pois não tem o break
-            break
         
             case 9:
             console.log('Quadro de honra')
