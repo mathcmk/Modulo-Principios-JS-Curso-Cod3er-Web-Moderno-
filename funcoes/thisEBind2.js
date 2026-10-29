@@ -7,8 +7,6 @@ function Pessoa() {
 
         self.idade++
         console.log(self.idade)
-
-
     }, 1000)
 
 
